@@ -1,0 +1,3 @@
+1. SyntaxError: Falta de ":" no final da linha
+2: TypeError: Tentando somar um número a uma string
+3: IndentationError: Falta do espaçamento na linha
